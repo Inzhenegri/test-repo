@@ -1,2 +1,2 @@
 # test-repo
-new lines
+delete lines
